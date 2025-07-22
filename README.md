@@ -2,8 +2,7 @@
 
 A powerful Streamlit-based web app to analyze WhatsApp group or personal chats with insightful visualizations.
 
-🚀 **[Click here to try the app!]([https://your-deployed-app-link](https://whatsappchatanalysis-d2fffjhxkrjudskyyqfh7x.streamlit.app/))**
-
+🚀 **[Click here to try the app!](https://whatsappchatanalysis-d2fffjhxkrjudskyyqfh7x.streamlit.app/)**
 ---
 
 ## 🎯 Features
