@@ -39,10 +39,6 @@ A powerful Streamlit-based web app to analyze WhatsApp group or personal chats w
 
 ---
 
-## 📷 Screenshots
-
-_Add screenshots from your deployed app here (optional)_
-
 ---
 
 ## 🛠️ Developer Setup (Optional)
