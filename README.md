@@ -2,7 +2,7 @@
 
 A powerful Streamlit-based web app to analyze WhatsApp group or personal chats with insightful visualizations.
 
-🚀 **[Click here to try the app!](https://your-deployed-app-link)**
+🚀 **[Click here to try the app!]([https://your-deployed-app-link](https://whatsappchatanalysis-d2fffjhxkrjudskyyqfh7x.streamlit.app/))**
 
 ---
 
@@ -21,7 +21,7 @@ A powerful Streamlit-based web app to analyze WhatsApp group or personal chats w
 ## 📂 How to Use
 
 1. Export your WhatsApp chat from the app (in `.txt` format).
-2. Open the [deployed web app](https://your-deployed-app-link).
+2. Open the [deployed web app](https://whatsappchatanalysis-d2fffjhxkrjudskyyqfh7x.streamlit.app/).
 3. Upload the exported file.
 4. Choose a user (or "Overall") to view analytics.
 
