@@ -45,7 +45,7 @@ A powerful Streamlit-based web app to analyze WhatsApp group or personal chats w
 If you'd like to run it locally:
 
 ```bash
-git clone https://github.com/yourusername/whatsapp-chat-analyzer.git
+git clone https://github.com/pantpujan017/whatsapp-chat-analyzer.git
 cd whatsapp-chat-analyzer
 
 # Create virtual environment (optional)
